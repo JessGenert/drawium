@@ -1,0 +1,161 @@
+.btn {
+  cursor:'pointer';
+  flex-wrap: nowrap;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+
+#btnContainer{
+  
+  min-width: 650px;
+}
+
+#btnColor {
+
+  flex-wrap: nowrap;
+  margin: 1%;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  border: 3px solid black;
+  padding: 1.3%;
+}
+
+#btnColorMobile {
+  flex-wrap: nowrap;
+  margin: 1.5%;
+  width: 4.7vmax;
+height: 7vmax;
+  padding: 1.3%;
+  border-radius: 0% !important;
+  border: 3px solid black;
+}
+
+#buttonGroup {
+  flex: auto;
+  text-align: left;
+}
+
+#buttonGroupMobile {
+  flex: auto;
+  text-align: left;
+}
+
+#whiteSpace {
+  flex: auto;
+  min-width: 35%;
+}
+
+#tool {
+  flex-wrap: nowrap;
+  margin: 1%;
+  border-radius: 50%;
+  border: 0px !important;
+  width: 75px;
+  height: 75px;
+  padding: 0%;
+}
+
+#toolMobile{
+  flex-wrap: nowrap;
+  margin: 0.64vmax;
+  border: 0px !important;
+  width: 4.7vmax;
+height: 4.5vmax;
+  padding: 0%;
+  border-radius: 0% !important;
+}
+
+#createGame {
+  background-color: #99AAB5;
+  border-radius: 10px;
+}
+
+#joinGame {
+  background-color: #99AAB5;
+  border-radius: 10px;
+}
+
+#loginButtons {
+  text-align: center;
+  margin-top: 15%;
+  display: flex;
+  justify-content: center;
+}
+#loginButtonsMobile{
+  text-align: center;
+  margin-top: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+#gameButtons {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#login {
+  background-color: #99AAB5;
+  color: black;
+  margin-inline: 5%;
+  border-radius: 10px;
+}
+
+#btnGuess {
+  flex-direction: column;
+  margin-left: 1%;
+  min-width: 50%;
+
+  background-color: #99AAB5;
+  border-radius: 25px !important;
+  font-size: x-large;
+  border: 1px solid black;
+  align-items: center;
+  font-weight: bold;
+  color: black
+}
+
+#btnInvite {
+  background-color: #99aab5;
+border-radius: 25px !important;
+border: 3px solid #000;
+min-width: 25vmin;
+  font-weight: bold;
+}
+
+#btnProfileSearch {
+  min-width: 20%;
+  background-color: #99AAB5;
+  border-radius: 25px !important;
+  position: relative;
+  font-size: x-large;
+  border: 1px solid black;
+  font-weight: bold;
+  color: black;
+}
+
+#gameOver {
+  width: 25%;
+  background-color: #99AAB5;
+  border-radius: 25px !important;
+  position: relative;
+  font-size: x-large;
+  left: 40%;
+
+  border: 1px solid black;
+  font-weight: bold;
+  color: black;
+}
+
+
+
+#btnChooseWord {
+  margin-left: 1%;
+  margin-top: 1%;
+  width: 50%;
+  border-radius: 25px !important;
+  background-color: #99AAB5;
+  border: 1px solid black;
+  font-weight: bold;
+}

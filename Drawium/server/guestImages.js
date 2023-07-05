@@ -1,0 +1,20 @@
+const bear = '/bear.png';
+const bearshiny = '/bearshiny.png';
+const bunny = '/bunny.png';
+const bunnyshiny = '/bunnyshiny.png';
+const cat = '/cat.png';
+const catshiny = '/catshiny.png';
+const dog = '/dog.png';
+const dogshiny = '/dogshiny.png';
+const elephant = '/elephant.png';
+const elephantshiny = '/elephantshiny.png';
+const fox = '/fox.png';
+const foxshiny = '/foxshiny.png';
+const giraffe = '/giraffe.png';
+const giraffeshiny = '/giraffeshiny.png';
+const lion = '/lion.png';
+const lionshiny = '/lionshiny.png';
+const mouse = '/mouse.png';
+const mouseshiny = '/mouseshiny.png';
+
+module.exports = [bear, bunny, cat, dog, elephant, fox, giraffe, lion, mouse, bearshiny, bunnyshiny, catshiny, dogshiny, elephantshiny, foxshiny, giraffeshiny, lionshiny, mouseshiny]

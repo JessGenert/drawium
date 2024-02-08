@@ -14,7 +14,7 @@ Also honourable mention is React's new documentation. It is wonderful and would 
 - nginx (my web server and proxy pass for my api and sockets)
 - certbot (for creating my SSL certs)
 - socket.io (for my websockets. Bless them and their amazing documentation)
-- mongoose (for my ORM)
+- mongoose (for my ODM)
 - securels (so I didn't need to have sessions or cookies as I store basic info - just secure enugh to not play as other players)
 - axios (I know fetch is built into the mdn now but I just love axios so much more)
 - uuid (to keep rooms unique and games/drawings unique across playthroughs)

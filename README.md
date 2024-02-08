@@ -22,27 +22,43 @@ Also honourable mention is React's new documentation. It is wonderful and would 
 
 # Now to get into what it's all about:
 
-Homepage:
+## Homepage:
 ![](https://i.imgur.com/ojzyI8i.png)  ![](https://i.imgur.com/XCBnzdq.png) 
 
-When you click Discord login, you are taken to an Oauth2 login:
+## When you click Discord login, you are taken to an Oauth2 login:
 ![](https://i.imgur.com/R69Lqui.png)   ![](https://i.imgur.com/ZGzw5IJ.png)
 
 
-If you authorize, you are logged in using securels which stores your userid, avatar, and username securely in local storage and are taken to the lobby
-(I didn't want to use sessions or cookies for this site as nothing is really secret about the information I am storing)
+## If you authorize, you are logged in using securels which stores your userid, avatar, and username securely in local storage and are taken to the lobby
+## (I didn't want to use sessions or cookies for this site as nothing is really secret about the information I am storing)
 
 ![](https://i.imgur.com/ok9sQAe.png)    ![](https://i.imgur.com/yYJ88x7.png)
 
 
-On Mobile you can select either create a game or a game from the drop down list. If you select a game it tells you who is all in that game.
+## On Mobile you can select either create a game or a game from the drop down list. If you select a game it tells you who is all in that game.
 
 
 ![](https://i.imgur.com/GfUHKsT.png) ![](https://i.imgur.com/xINyZIb.png)
 
-On Desktop it is somewhat similar with the games appearing as they are created and if you click on a game in the list it shows you who is in that game currently.
-![](https://i.imgur.com/03VWgk8.png)
+## On Desktop it is somewhat similar with the games appearing as they are created and if you click on a game in the list it shows you who is in that game currently.
+![](https://i.imgur.com/03VWgk8.png) ![](https://i.imgur.com/HZ0Hmxa.png)
 
-The games list is updated automatically when someone creates a game. The new list is displayed to all currently connected clients. 
-If someone leaves a game it is reflected in the list of players for that game and if everyone leaves the game, the game is removed from the list
+## The games list is updated automatically when someone creates a game. The new list is displayed to all currently connected clients. 
+## If someone leaves a game it is reflected in the list of players for that game and if everyone leaves the game, the game is removed from the list
+
+## Joining the game, the player table is also dynamically updated for everyone at all times
+![](https://i.imgur.com/STkF8P8.png)  ![](https://i.imgur.com/aom2imz.png)
+
+## The first person in the game has the option to choose the amount of rounds (up to 6) and start the game
+
+![](https://i.imgur.com/rZrxguC.png) ![](https://i.imgur.com/vIHeShH.png)
+
+## When the game starts it goes from first in line to last for drawing turns. You get the option to choose from 3 words
+
+![](https://i.imgur.com/xzD4D5X.png)  ![](https://i.imgur.com/mRMSclP.png)
+
+## Letters are revealed based of of letter count and time remaining and instead of a drawing group you are given a guess box to guess the word
+## here is an example of a drawing group for both versions:
+
+![](https://i.imgur.com/S9xhGfr.png)  ![](https://i.imgur.com/j25lAG0.png) ![](https://i.imgur.com/ED08eCG.png)
 

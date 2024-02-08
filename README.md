@@ -1,6 +1,6 @@
 ## [https://www.drawium.lol](https://www.drawium.lol)
 
-This started as a passion project for me in order to learn React. I ended up learning way more in the process than I couldhave ever imagined.
+This started as a passion project for me in order to learn React. I ended up learning way more in the process than I could have ever imagined.
 This is built on a MERN stack MongoDB, Express, React, and Nodejs. But I use many more technologies and libraries. It is done using functional components.
 It is fully responsive and mobile friendly as well as cross platform play. My only two regrets were not taking advantage of Bootstraps built in functionality more
 and not doing it in Typescript for the practice. 

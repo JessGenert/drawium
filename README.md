@@ -23,4 +23,4 @@ Also honourable mention is React's new documentation. It is wonderful and would 
 # Now to get into what it's all about:
 
 Homepage:
-[](https://i.imgur.com/ojzyI8i.png)  [](https://i.imgur.com/XCBnzdq.png)
+![](https://i.imgur.com/ojzyI8i.png)  ![](https://i.imgur.com/XCBnzdq.png)

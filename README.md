@@ -62,3 +62,15 @@ Also honourable mention is React's new documentation. It is wonderful and would 
 
 ![](https://i.imgur.com/S9xhGfr.png)  ![](https://i.imgur.com/j25lAG0.png) ![](https://i.imgur.com/ED08eCG.png)
 
+## Scoring is based on time left
+![](https://i.imgur.com/h43Kq1P.png)
+
+## Drawing is done in real time for all players
+
+![](https://i.imgur.com/W1q491P.gif)
+
+
+## You can search for players profiles to see their stats and drawing gallery clicking on an image allows you to download it.
+## disclaimer: I am still getting a few errors when it comes to uploading my img blobs to the s3 bucket.
+
+![](https://i.imgur.com/Z5w8Fpp.png)  ![](https://i.imgur.com/IkGJnKm.png)  ![](https://i.imgur.com/dvDiszS.png)
